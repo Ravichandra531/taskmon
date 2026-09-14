@@ -1,0 +1,7 @@
+{
+  "name": "taskmon",
+  "version": "1.0.0",
+  "description": "Terminal process monitor & killer — htop-lite in raw Node.js",
+  "bin": { "taskmon": "./bin/taskmon.js" },
+  "engines": { "node": ">=18.0.0" }
+}
